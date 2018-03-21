@@ -1,7 +1,7 @@
 
 * {string}
 
-获取及设置URL的序列化查询(query)部分部分。
+获取及设置URL的序列化查询(query)部分。
 
 ```js
 const { URL } = require('url');
